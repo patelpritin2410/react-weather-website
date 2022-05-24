@@ -1,0 +1,56 @@
+
+.inputFeild {
+    width: 50%;
+    margin: auto;
+    border-radius: 5rem;
+    padding: 1rem 1rem;
+    outline: none;
+    font-size: 3rem;
+    text-transform: capitalize;
+}
+
+.errorMsg {
+    text-align: center;
+    font-size: 3rem;
+    margin: 2rem auto;
+    color: blue;
+}
+.Msg {
+    text-align: center;
+    font-size: 3rem;
+    margin: 2rem auto;
+    color: red;
+}
+
+.info {
+    font-size: 3rem;
+}
+
+.box {
+    width: 50%;
+    margin: auto;
+    margin-top: 10rem;
+    font-size: 6rem;
+    text-align: center;
+    background-color: lightcyan;
+    
+}
+
+.location {
+    text-transform: capitalize;
+    color: blueviolet;
+}
+
+.temp {
+    color: brown;
+}
+
+.btn {
+    width: 35%;
+    font-size: 30px;
+    text-align: center;
+    color: #0f0f10;
+    background-color: rgb(142 232 142);
+    border-radius: 5rem;
+    padding: 1rem 1rem;
+}
